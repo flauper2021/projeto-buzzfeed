@@ -21,7 +21,7 @@
         {"id": 1, "name":"Crianças", "alias":"A"},
         {"id": 2, "name":"Idosos", "alias":"A"},
         {"id": 3, "name":"Mulheres", "alias":"A"},
-        {"id": 4, "name":"Idosos", "alias":"A"},
+        {"id": 4, "name":"Adolescentes", "alias":"A"},
         {"id": 5, "name":"Não saberia escolher", "alias":"B"},
         {"id": 6, "name":"Não salvaria nenhum", "alias":"A"}
       ]
