@@ -1,5 +1,7 @@
 # ProjetoBuzzfeed
 
+ESSE PROJETO FOI REALIZADO BASEADO NAS AULA DO PROFESSOR FELIPE AGUIAR - DIO - CURSO Desenvolvimento Frontend com Angular
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.2.
 
 ## Development server
